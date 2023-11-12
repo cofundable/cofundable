@@ -1,9 +1,9 @@
 ---
 
-name: Task
-about: Outline changes that need to be made to the codebase
-title: 'TASK:'
-labels: enhancement
+name: Internal - Task
+about: Describe changes that need to be made to this repo
+title: '[Task]:'
+labels:
 assignees: ''
 
 ---
@@ -11,11 +11,6 @@ assignees: ''
 ## Summary
 
 Clear and concise summary of the work that needs to be completed
-
-## To Do
-
-- [ ] {Description of change 1}
-- [ ] {Description of change 2}
 
 ## Definition of Done
 
